@@ -286,6 +286,7 @@ jQuery 1.7
 #### License
 
 Maintain from : https://github.com/kenwheeler/slick/
+
 Copyright (c) 2021 FastCo Team
 
 Licensed under the MIT license.
