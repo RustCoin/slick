@@ -38,10 +38,10 @@ Then, before your closing ```<body>``` tag add:
 
 ```sh
 # Bower
-bower install --save slick-fast
+bower install --save @fastco/slick
 
 # NPM
-npm install slick-fast
+npm install @fastco/slick
 ```
 
 #### Contributing
