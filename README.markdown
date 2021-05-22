@@ -1,13 +1,13 @@
 slick
 -------
 
-[1]: <https://github.com/kenwheeler/slick>
+[1]: <https://github.com/fastcoteam/slick>
 
 _the last carousel you'll ever need_
 
 #### Demo
 
-[http://kenwheeler.github.io/slick](http://kenwheeler.github.io/slick/)
+[http://fastcoteam.github.io/slick](http://fastcoteam.github.io/slick/)
 
 #### CDN
 
@@ -38,10 +38,10 @@ Then, before your closing ```<body>``` tag add:
 
 ```sh
 # Bower
-bower install --save slick-carousel
+bower install --save slick-fast
 
 # NPM
-npm install slick-carousel
+npm install slick-fast
 ```
 
 #### Contributing
@@ -231,9 +231,9 @@ Method | Argument | Description
 `slickUnfilter` | | Removes applied filter
 `slickGetOption` | option : string(option name) | Gets an option value.
 `slickSetOption` | change an option, `refresh` is always `boolean` and will update UI changes...
- | `option, value, refresh` | change a [single `option`](https://github.com/kenwheeler/slick#settings) to given `value`; `refresh` is optional.
+ | `option, value, refresh` | change a [single `option`](https://github.com/fastcoteam/slick#settings) to given `value`; `refresh` is optional.
  | `"responsive", [{ breakpoint: n, settings: {} }, ... ], refresh` | change or add [whole sets of responsive options](#responsive-option-example)
- | `{ option: value, option: value, ... }, refresh` | change  [multiple `option`s](https://github.com/kenwheeler/slick#settings) to corresponding `value`s.
+ | `{ option: value, option: value, ... }, refresh` | change  [multiple `option`s](https://github.com/fastcoteam/slick#settings) to corresponding `value`s.
 
 
 #### Example
@@ -285,8 +285,7 @@ jQuery 1.7
 
 #### License
 
-Copyright (c) 2017 Ken Wheeler
+Maintain from : https://github.com/kenwheeler/slick/
+Copyright (c) 2021 FastCo Team
 
 Licensed under the MIT license.
-
-Free as in Bacon.
