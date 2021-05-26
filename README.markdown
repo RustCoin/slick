@@ -5,6 +5,10 @@ slick
 
 _the last carousel you'll ever need_
 
+#### Npm
+
+https://www.npmjs.com/package/@fastco/slick
+
 #### Demo
 
 [http://fastcoteam.github.io/slick](http://fastcoteam.github.io/slick/)
